@@ -21,6 +21,7 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
+  "Python",
   "Discord.js Bots",
   "React",
   "Next.js",

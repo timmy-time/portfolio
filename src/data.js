@@ -13,7 +13,7 @@ export const testimonials = [
   {
     quote:
       "We're in the business of supporting people all over the world who want to build digital socially relevant products. We are totally open, we don't need anything from anyone.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
+    image: "https://unicornwitnesses.com/img/aleksei_dolgikh_photo.jpg",
     name: "Aleksei Dolgikh",
     company: "UnicornWitnesses.com",
   },

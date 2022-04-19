@@ -7,7 +7,6 @@ import Skills from "./components/Skills";
 //import Testimonials from "./components/Testimonials";
 import { Route } from 'react-router-dom';
 import './index.css'
-import Donate from "./components/Donate";
 
 export default function App() {
   return (

@@ -4,18 +4,20 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-// import Testimonials from "./components/Testimonials";
-
+//import Testimonials from "./components/Testimonials";
+import { Route } from 'react-router-dom';
+import './index.css'
+import Donate from "./components/Donate";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font">
-      <Navbar />
-      <About />
-      <Projects />
-      <Skills />
-      <Testimonials />
-      <Contact />
-    </main>
+      <main className="text-gray-400 bg-gray-900 body-font">
+        <Navbar />
+        <About />
+        <Donate />
+        <Projects />
+        <Skills />
+        <Contact />
+      </main>
   );
 }

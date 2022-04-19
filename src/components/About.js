@@ -1,4 +1,5 @@
 import React from "react";
+import '../index.css';
 
 export default function About() {
   return (
@@ -11,7 +12,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Ever since I was 8, I've always had a passion for technology. Creating awesome opensource apps has always been a priority for me! 
+            {/*Ever since I was 8, I've always had a passion for technology. Creating awesome opensource apps has always been a priority for me! */}
           </p>
           <div className="flex justify-center">
             <a

@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# I am planning on rewriting to Next.JS Typescript, shoot me an email @ https://mailto:tim@timmygreen.com if you'd like to help contribute to that!
+# I am planning on rewriting to Next.JS Typescript, shoot me an email @ mailto:tim@timmygreen.com if you'd like to help contribute to that!
 
 
 ## Available Scripts
